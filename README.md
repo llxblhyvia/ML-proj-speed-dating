@@ -10,3 +10,9 @@ The data in [data](data) is for preview and actually accessed with:
 Detailed data introduction is attached in the [Speed Dating Data Key](data/Speed_Dating_Data_Key.doc)file, here we introduce some more important data items, including `participant ID`, `number of events participated`, `gender`, `age`, `SAT Score`, `race`, `department`, `school`, `attr`--attractive attractiveness index, `sinc`--sincere true Honesty index, `intel`--intelligent smart index, `fun`--interesting index, `amb`--ambitious Ambition index, `shar`--has shared interests/hobbies--the degree of having the same interests and hobbies, etc. There are 195 features, 8277 strips of labeled data in total.
 ## Task Description
 For supervised learning, five models are used - Random Forest, Logistic Regression, BaggingClassifier, AdaBoost, SVM; semi-supervised learning is done on the first four of the above five models for comparison with supervised learning. SMOTE is used to solve the data imbalance problem. 
+
+## Implementation and Explanation
+Furthermore Implementation and Explanation are discribed in the [report](机器学习期末课程论文-韩悦-2018110919.pdf) but only in Chinese😵, and will be translated later.
+
+## Declaration
+The project is completed independently by Yue Han in the first semester of her junior year, sorry for any shortcomings of the model, code and paper writing🧎.
