@@ -12,7 +12,7 @@ Detailed data introduction is attached in the [Speed Dating Data Key](data/Speed
 For supervised learning, five models are used - Random Forest, Logistic Regression, BaggingClassifier, AdaBoost, SVM; semi-supervised learning is done on the first four of the above five models for comparison with supervised learning. SMOTE is used to solve the data imbalance problem. 
 
 ## Implementation and Explanation
-Furthermore Implementation and Explanation are discribed in the [report](机器学习期末课程论文-韩悦-2018110919.pdf) but only in Chinese😵, and will be translated later.
+Furthermore Implementation and Explanation are discribed in the [report](project-report.pdf) but only in Chinese😵, and will be translated later.
 
 ## Declaration
 The project is completed independently by Yue Han in the first semester of her junior year, sorry for any shortcomings of the model, code and paper writing🧎.
